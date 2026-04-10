@@ -1,0 +1,16 @@
+build/
+install/
+log/
+*.pyc
+__pycache__/
+.pytest_cache/
+*.pyo
+*.pyd
+venv/
+.env/
+env/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.colcon_install_layout
